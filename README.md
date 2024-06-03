@@ -13,3 +13,4 @@ Use python main.py to run the game
 - baground pictures 
 
 ### Known bugs
+- none 
