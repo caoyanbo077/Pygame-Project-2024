@@ -11,6 +11,7 @@ Use python main.py to run the game
 -single player 
 - replayable 
 - baground pictures 
+- high score calculator 
 
 ### Known bugs
 - none 
